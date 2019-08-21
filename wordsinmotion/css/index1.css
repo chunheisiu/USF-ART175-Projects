@@ -1,0 +1,23 @@
+/* Page1 Styles */
+
+#love {
+    max-width: 50vw;
+}
+
+#most {
+    font-size: 10vw;
+    font-weight: 500;
+    line-height: 1em;
+    letter-spacing: .1em;
+    text-indent: .1em;
+}
+
+#suffering {
+    font-weight: 500;
+    background-image: url(../img/blood.jpg);
+    background-position: 0 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    transition: background-position 5s ease .15s;
+}

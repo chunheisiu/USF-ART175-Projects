@@ -1,0 +1,59 @@
+/* Page3 Style */
+
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+
+.center {
+    position: absolute;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, 0);
+}
+
+#backwards {
+    transform: rotateY(180deg);
+    letter-spacing: .65em;
+    text-indent: .65em;
+}
+
+#transparent {
+    color: black;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+#see {
+    top: 100vh;
+    font-size: 10vw;
+    font-weight: 100;
+}
+
+#push {
+    top: 200vh;
+}
+
+@keyframes neon {
+  from {
+    text-shadow: 0 0 10px white, 0 0 20px white, 0 0 30px white, 0 0 40px orange, 0 0 70px orange, 0 0 80px orange, 0 0 100px orange, 0 0 150px orange;
+  }
+  to {
+    text-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white, 0 0 20px orange, 0 0 35px orange, 0 0 40px orange, 0 0 50px orange, 0 0 75px orange;
+  }
+}
+
+#understood {
+    top: 300vh;
+    padding-bottom: 50vh;
+    font-family: "Monoton", cursive;
+    font-size: 7vw;
+    animation: neon 1.5s ease-in-out infinite alternate;
+}
+
+#replay {
+    top: 350vh;
+    width: 3vw;
+    opacity: .25;
+    transition: opacity .25s ease;
+}
+
+#replay:hover {
+    opacity: .75;
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A0A0A0;}
+	.st1{fill:#A0A0A0;}
+	.st2{font-family:'AvenirNext-Heavy';}
+	.st3{font-size:49.4364px;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="st0" d="M109.9,163.1c0.2,48.1,0.4,96.1,0.6,144.2c0,6.9,0.1,13.8,0.1,20.7c0,9.6,15,9.7,15,0
+				c-0.2-48.1-0.4-96.1-0.6-144.2c0-6.9-0.1-13.8-0.1-20.7C124.8,153.4,109.8,153.4,109.9,163.1L109.9,163.1z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st0" d="M198.2,163.1c0.2,48.1,0.4,96.1,0.6,144.2c0,6.9,0.1,13.8,0.1,20.7c0,9.6,15,9.7,15,0
+				c-0.2-48.1-0.4-96.1-0.6-144.2c0-6.9-0.1-13.8-0.1-20.7C213.2,153.4,198.2,153.4,198.2,163.1L198.2,163.1z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st0" d="M286.6,163.1c0.2,48.1,0.4,96.1,0.6,144.2c0,6.9,0.1,13.8,0.1,20.7c0,9.6,15,9.7,15,0
+				c-0.2-48.1-0.4-96.1-0.6-144.2c0-6.9-0.1-13.8-0.1-20.7C301.5,153.4,286.5,153.4,286.6,163.1L286.6,163.1z"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 99.9995 145.2866)" class="st1 st2 st3">1</text>
+	<text transform="matrix(1 0 0 1 188.7817 145.2866)" class="st1 st2 st3">3</text>
+	<text transform="matrix(1 0 0 1 277.1279 145.2866)" class="st1 st2 st3">5</text>
+	<text transform="matrix(1 0 0 1 100.2095 384.5723)" class="st1 st2 st3">2</text>
+	<text transform="matrix(1 0 0 1 187.3071 384.5723)" class="st1 st2 st3">4</text>
+	<text transform="matrix(1 0 0 1 277.1279 384.5723)" class="st1 st2 st3">6</text>
+	<g>
+		<line x1="117.3" y1="248.1" x2="382.8" y2="248.1"/>
+		<g>
+			<path class="st0" d="M117.3,255.6c30,0,60,0,90,0c47.6,0,95.2,0,142.8,0c10.9,0,21.8,0,32.7,0c9.7,0,9.7-15,0-15c-30,0-60,0-90,0
+				c-47.6,0-95.2,0-142.8,0c-10.9,0-21.8,0-32.7,0C107.7,240.6,107.6,255.6,117.3,255.6L117.3,255.6z"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 364.7031 145.2861)" class="st1 st2 st3">R</text>
+	<g>
+		<g>
+			<path class="st0" d="M374.9,163.1c0,28.3,0,56.7,0,85c0,9.7,15,9.7,15,0c0-28.3,0-56.7,0-85C389.9,153.4,374.9,153.4,374.9,163.1
+				L374.9,163.1z"/>
+		</g>
+	</g>
+</g>
+</svg>

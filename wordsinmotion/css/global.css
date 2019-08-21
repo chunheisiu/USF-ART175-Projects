@@ -1,0 +1,37 @@
+/* Global Styles */
+
+html {
+    cursor: none;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-weight: 300;
+    padding: 0 2em 1em 2em;
+    text-transform: uppercase;
+}
+
+p {
+    display: block;
+    text-align: center;
+    font-size: 3vw;
+    letter-spacing: .3em;
+    text-indent: .3em;
+    line-height: 5rem;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.link {
+    font-size: 5vw;
+    transition: font-weight .25s ease;
+}
+
+.link:hover {
+    font-weight: 700;
+}

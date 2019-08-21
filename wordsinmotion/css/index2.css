@@ -1,0 +1,87 @@
+/* Page2 Styles */
+
+#girl {
+    color: hotpink;
+    font-size: 5vw;
+    font-weight: 400;
+}
+
+#homework {
+    font-size: 7vw;
+    font-weight: 500;
+    letter-spacing: -.1em;
+    text-indent: -.1em;
+    color: black;
+}
+
+.hmk {
+    display: inline-block;
+    padding: .25em;
+    transition: background-color .5s ease;
+}
+
+#hmk1, #hmk3, #hmk5, #hmk7 {
+    background-color: whitesmoke;
+    transform: scaleX(1) skewY(-20deg);
+}
+
+#hmk2, #hmk4, #hmk6, #hmk8 {
+    background-color: gray;
+    transform: scaleX(1) skewY(20deg);
+}
+
+#hmk1:hover, #hmk3:hover, #hmk5:hover, #hmk7:hover {
+    background-color: gray;
+}
+
+#hmk2:hover, #hmk4:hover, #hmk6:hover, #hmk8:hover {
+    background-color: whitesmoke;
+}
+
+@keyframes air {
+    0% {opacity: .3;}
+    25% {opacity: .7;}
+    50% {opacity: .2;}
+    75% {opacity: .9;}
+    100% {opacity: .5;}
+}
+
+#air {
+    animation-name: air;
+    animation-duration: 4s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
+
+#she, .her {
+    color: hotpink;
+    font-weight: 400;
+}
+
+#tri {
+    text-indent: 0;
+    letter-spacing: .1em;
+    margin: 0 .3em -.5em .3em;
+    line-height: .8em;
+    font-size: 7vw;
+    font-weight: 500;
+}
+
+#the {
+    color: wheat;
+}
+
+#gobi {
+    color: burlywood;
+}
+
+#desert {
+    color: sienna;
+}
+
+#tibet {
+    font-weight: 500;
+    text-indent: .1em;
+    letter-spacing: .1em;
+    color: skyblue;
+}
